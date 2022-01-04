@@ -48208,7 +48208,7 @@ X.pY.prototype={
 b4(){return new X.Ek(C.p)}}
 X.Ek.prototype={
 a_(a,b){var s=null,r=new X.X3(this),q=t.w,p=b.ah(q).f,o=t.p
-return new M.rh(T.Bo(C.cK,H.a([U.yb("images/landing_page.png",C.he,b.ah(q).f.a.b,p.a.a),new T.kr(new V.bx(100,30,100,30),T.a4v(H.a([T.RB(H.a([U.yb("images/logo.png",s,40,72),T.RB(H.a([r.$2("Guides",0),T.iL(s,s,50),r.$2("Pricing",1),T.iL(s,s,50),r.$2("Team",2),T.iL(s,s,50),r.$2("Stories",3)],o),C.dC,C.cn),U.yb("images/btn.png",s,53,163)],o),C.nf,C.cn),T.iL(s,76,s),U.yb("images/illustration.png",s,s,550),T.iL(s,84,s),T.RB(H.a([U.yb("images/icon_scroll.png",s,s,24),T.iL(s,s,13),L.a6j("Scroll to Learn More",B.a4Y(C.m,20,s),s,s)],o),C.ne,C.cn)],o),C.cn),s)],o),C.cB),s)}}
+return new M.rh(T.Bo(C.cK,H.a([U.yb("landing_page.png",C.he,b.ah(q).f.a.b,p.a.a),new T.kr(new V.bx(100,30,100,30),T.a4v(H.a([T.RB(H.a([U.yb("logo.png",s,40,72),T.RB(H.a([r.$2("Guides",0),T.iL(s,s,50),r.$2("Pricing",1),T.iL(s,s,50),r.$2("Team",2),T.iL(s,s,50),r.$2("Stories",3)],o),C.dC,C.cn),U.yb("btn.png",s,53,163)],o),C.nf,C.cn),T.iL(s,76,s),U.yb("illustration.png",s,s,550),T.iL(s,84,s),T.RB(H.a([U.yb("icon_scroll.png",s,s,24),T.iL(s,s,13),L.a6j("Scroll to Learn More",B.a4Y(C.m,20,s),s,s)],o),C.ne,C.cn)],o),C.cn),s)],o),C.cB),s)}}
 X.X3.prototype={
 $2(a,b){var s,r=null,q=this.a,p=q.d===b?C.V:C.c9
 p=L.a6j(a,B.a4Y(new P.I(4280098364),18,p),r,r)
