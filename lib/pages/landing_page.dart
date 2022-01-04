@@ -53,7 +53,7 @@ class _LandingPageState extends State<LandingPage> {
       body: Stack(
         children: [
           Image.asset(
-            'images/landing_page.png',
+            'landing_page.png',
             width: MediaQuery.of(context).size.width,
             height: MediaQuery.of(context).size.height,
             fit: BoxFit.fill,
@@ -71,7 +71,7 @@ class _LandingPageState extends State<LandingPage> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Image.asset(
-                      'images/logo.png',
+                      'logo.png',
                       width: 72,
                       height: 40,
                     ),
@@ -105,7 +105,7 @@ class _LandingPageState extends State<LandingPage> {
                       ],
                     ),
                     Image.asset(
-                      'images/btn.png',
+                      'btn.png',
                       width: 163,
                       height: 53,
                     ),
@@ -119,7 +119,7 @@ class _LandingPageState extends State<LandingPage> {
                 // NOTE : CONTENT
 
                 Image.asset(
-                  'images/illustration.png',
+                  'illustration.png',
                   width: 550,
                 ),
 
@@ -132,7 +132,7 @@ class _LandingPageState extends State<LandingPage> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Image.asset(
-                      'images/icon_scroll.png',
+                      'icon_scroll.png',
                       width: 24,
                     ),
                     SizedBox(
